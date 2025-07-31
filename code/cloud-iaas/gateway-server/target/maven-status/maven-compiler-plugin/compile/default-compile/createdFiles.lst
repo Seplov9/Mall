@@ -1,0 +1,3 @@
+com\powernode\GatewayServerApplication.class
+com\powernode\config\WhiteUrlsConfig.class
+com\powernode\filter\AuthFilter.class
